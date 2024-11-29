@@ -1,4 +1,4 @@
-site_name: Manager
+site_name: Hello👋
 site_url: https://yourusername.github.io/
 
 theme:
@@ -18,7 +18,7 @@ theme:
     code: Fira Code
 
 nav:
-  - Home: index.md
+  - Journey: index.md
 
 extra_css:
   - css/custom.css
