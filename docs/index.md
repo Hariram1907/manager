@@ -25,31 +25,36 @@ p, ul {
 }
 </style>
 
-# Welcome to My Personal Space 🌟
+# Welcome to My Digital Portfolio 💻
 
-Hi! I'm **[Your Name]**, a passionate individual always eager to learn, explore, and create. Here's a little about me:
+Hi! This is **Hariram**, passionate **Computer Science Engineer** dedicated to solving problems and building innovative solutions through technology. Here's a snapshot of who I am:
 
 ---
 
 ## 💼 About Me
-I'm currently pursuing my **Integrated M.Sc. in Chemistry** at **Manonmaniam Sundaranar University**, Tamil Nadu. My research interests lie in **Biochemistry** and I'm aspiring to make impactful contributions in this field.
+I specialize in **software development**. With a deep curiosity for cutting-edge technologies, I aim to create impactful projects and drive meaningful change in the tech world.
 
 ---
 
 ## 📱 Connect with Me
-- [LinkedIn](https://www.linkedin.com)  
-- [GitHub](https://github.com)  
-- [Twitter](https://twitter.com)  
-- [Instagram](https://www.instagram.com)  
+- [LinkedIn](https://www.linkedin.com/in/hariram-m-3a3ba31bb/)
+- [GitHub](https://github.com/Hariram1907)
 
 ---
 
-## 🎨 My Hobbies
-- **Reading** 📚: Exploring science and literature.  
-- **Coding** 💻: Building small projects and experimenting with tools.  
-- **Traveling** ✈️: Experiencing new cultures and cuisines.  
-- **Photography** 📸: Capturing moments that inspire me.
+## 🛠️ Skills & Interests
+- **Programming**: JavaScript, Typscript, NodeJs, adminJs, PostgreSQl
+- **Web Development**: HTML, CSS, VueJs  
 
 ---
 
-✨ *"Stay curious, stay inspired, and never stop growing."* ✨
+## 🎨 Hobbies
+- **Coding**: Building open-source projects.  
+- **Gaming**: Exploring immersive worlds.  
+- **Blogging**: Writing about tech trends and programming.  
+- **Hiking**: Recharging in the great outdoors.
+
+---
+
+✨ *"Programming is like writing a book... except if you miss a single comma on page 126, the whole thing makes no sense."* ✨
+
