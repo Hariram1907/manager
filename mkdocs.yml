@@ -1,0 +1,5 @@
+site_name: Hariram's manager
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
