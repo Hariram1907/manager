@@ -1,4 +1,35 @@
-site_name: Hariram's manager
+site_name: Manager
+site_url: https://yourusername.github.io/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: lime
+
+  font:
+    text: inter
+    code: Fira Code
+
 nav:
   - Home: index.md
-  - About: about.md
+  - Daily Tasks: daily_tasks.md
+
+extra_css:
+  - css/custom.css
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.emoji
+  - pymdownx.details
+  - admonition
